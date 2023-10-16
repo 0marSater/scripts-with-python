@@ -1,1 +1,1 @@
-Some scripts python scripts to deal with aws
+Some of python scripts to deal with aws
